@@ -44,7 +44,7 @@ The hybrid YOLOv8 + Bi-LSTM architecture achieved high accuracy during validatio
   ![Accuracy Graph](results/YOUR_ACCURACY_GRAPH_NAME.png)
 
 * **Confusion Matrix:**
-  ![Confusion Matrix](results/YOUR_CONFUSION_MATRIX_NAME.png)
+  ![Confusion Matrix](results/figures/phase05_confusion_matrix.png)
 
 ---
 
