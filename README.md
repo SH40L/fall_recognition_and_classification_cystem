@@ -41,7 +41,10 @@ Because a fall is an action that happens *over time*, static images are not enou
 The hybrid YOLOv8 + Bi-LSTM architecture achieved high accuracy during validation. Below are the training metrics and the final confusion matrix showcasing the model's reliability in distinguishing between falls and non-falls:
 
 * **Training Accuracy & Loss:**
-  ![Accuracy Graph](results/YOUR_ACCURACY_GRAPH_NAME.png)
+  * **Accuracy:**
+  ![Accuracy Graph](results/figures/phase05_global_summary.png)
+  * **Loss:**
+  ![Loss Graph](results/figures/phase04_final_loss_comparison.png)
 
 * **Confusion Matrix:**
   ![Confusion Matrix](results/figures/phase05_confusion_matrix.png)
