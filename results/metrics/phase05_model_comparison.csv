@@ -1,0 +1,3 @@
+Model,Video-Level Accuracy
+Baseline LSTM,0.9318885448916409
+Enhanced Bi-LSTM,0.9411764705882353

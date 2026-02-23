@@ -1,0 +1,8 @@
+PHASE 06 – ROBUST POST-FALL ALARM LOG
+-----------------------------------
+Video: slip_197.mp4
+FPS: 30.02
+Standing Height (px): 333.16
+Lay Threshold (40%): 133.26
+Fall-Down Frame: 143
+Final Decision: NO ALARM (Benefit of Doubt)

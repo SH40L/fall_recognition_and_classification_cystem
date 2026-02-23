@@ -1,0 +1,4 @@
+Split,Sequences,Unique Videos,Ratio
+Training,21033,1502,~70%
+Validation,4845,322,~15%
+Test (Locked),4378,323,~15%
